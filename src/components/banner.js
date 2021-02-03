@@ -15,7 +15,8 @@ const Banner = ()=>{
                                 </p>  */}
 
                                 <h1>
-                                Don't Work for the <span style={{color: '#63af66'}}>Money</span>, Let the <span style={{color: '#63af66'}}>Money</span> Work for You!
+                                <span style={{display: 'inline-block', color: '#63af66'}}>Don't Work</span> for the Money
+                                Let the Money <span style={{display: 'inline-block',color: '#63af66'}}>Work for You!</span>
                                 </h1>
 
                                 {/* <p className="right-sub-text">

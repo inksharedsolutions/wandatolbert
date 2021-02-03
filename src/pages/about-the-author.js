@@ -4,7 +4,7 @@ import Layout from '../components/layout'
 import Nav from '../components/nav'
 import Banner from '../components/non-front-banner'
 import Event from '../components/event'
-import AuthorImg from '../../static/author/main_author.png'
+import AuthorImg from '../../static/author/main_author.jpg'
 
 const ATB = (props)=>{
 	
@@ -41,7 +41,7 @@ const ATB = (props)=>{
                             </p>
 
                             <p>
-                            Luke Four:18 is always concerned with people having enough food to eat, water to drink, clothing to wear and medication. Luke Four:18 participates in land and cruise missionary trips. With the missionary cruises it allows people to confirm that they are able to do land trips.We may be at port for an hour, but we take over much needed supplies, purchase food, have a church service and doctors, nurses, dentist and hairstylist perform free services during the time we are at port.
+                            Luke Four:18 is always concerned with people having enough food to eat, water to drink, clothing to wear and medication. Luke Four:18 participates in land and cruise missionary trips. With the missionary cruises it allows people to confirm that they are able to do land trips. We may be at port for an hour, but we take over much needed supplies, purchase food, have a church service and doctors, nurses, dentist and hairstylist perform free services during the time we are at port.
                             </p>
 
                             <p>

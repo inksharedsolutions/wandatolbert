@@ -69,7 +69,7 @@ const Footer = ()=>{
                             <li>
                                 <a          
                                     target="_blank"
-                                    href="https://www.instagram.com/strattonpress/"
+                                    href="https://www.goodreads.com/book/show/56362405-don-t-work-for-the-money-let-the-money-work-for-you?from_search=true&from_srp=true&qid=0eKMo4w7xC&rank=1"
                                     rel="noreferrer"
                                     >
 
