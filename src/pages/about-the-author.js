@@ -37,7 +37,7 @@ const ATB = (props)=>{
 
                         <article className="article-section column" id="author">
                             <p>
-                            Dr. Wanda is a retired cosmetologist and salon owner. She serviced clients for 30 years owning her own business for 21 of those years. She went to Bible College & Seminary and has earned bachelor, masters and doctorate degrees. She is also the founder of Luke Four:18 International Outreach Ministries, which has a mandated area to call for service in Roata, Honduras.
+                            Dr. Wanda is a retired cosmetologist and salon owner. She serviced clients for 30 years owning her own business for 21 of those years. She went to Bible College & Seminary and has earned bachelor, masters and doctorate degrees. She is also the founder of Luke Four:18 International Outreach Ministries, which has a mandated area to call for service in Roatan, Honduras.
                             </p>
 
                             <p>
